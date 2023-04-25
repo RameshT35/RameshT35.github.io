@@ -4,9 +4,9 @@
   "data":[
     {
 
-      "AdmobInterstitial":"ca-app-pub-394042544/1033173712",
-      "AdmobBanner":"ca-app-pub-3940242544/6300978111",
-      "AdmobNative" : "ca-app-pub-3940942544/2247696110",
+      "AdmobInterstitial":"/6499/example/interstitial",
+      "AdmobBanner":"/6499/example/banner",
+      "AdmobNative" : "/6499/example/native",
 
       "ApplovinInterstitial":"0a8bbcf03dcb",
       "ApplovinBanner":"7f10fa0d4b",
