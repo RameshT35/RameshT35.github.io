@@ -4,9 +4,9 @@
   "data":[
     {
 
-      "AdmobInterstitial":"/22906219866/admobbanner",
+      "AdmobInterstitial":"",
       "AdmobBanner":"/22906219866/admobbanner",
-      "AdmobNative" : "/22906219866/admobbanner",
+      "AdmobNative" : "",
 
       "ApplovinInterstitial":"0a8bbcf03dcb",
       "ApplovinBanner":"7f10fa0d4b",
